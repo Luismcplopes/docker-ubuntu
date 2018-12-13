@@ -11,13 +11,13 @@ This repository contains **Dockerfile** of [Ubuntu](http://www.ubuntu.com/) for 
 
 ### Installation
 
-1. Install [Docker](https://www.docker.com/).
+1. Install [Docker](https://docs.docker.com/install/).
 
 2. Download [automated build](https://hub.docker.com/r/luismcplopes/docker-ubuntu/) from public [Docker Hub Registry](https://registry.hub.docker.com/): `docker pull luismcplopes/docker-ubuntu`
 
    (alternatively, you can build an image from Dockerfile: `docker build -t="Luismcplopes/docker-ubuntu" github.com/Luismcplopes/docker-ubuntu`)
 
-[![Try in PWD](https://cdn.rawgit.com/play-with-docker/stacks/cff22438/assets/images/button.png)](http://play-with-docker.com?stack=https://raw.githubusercontent.com/Luismcplopes/docker-ubuntu/master/Dockerfile&stack_name=func)
+[![Try in PWD](https://cdn.rawgit.com/play-with-docker/stacks/cff22438/assets/images/button.png)](http://play-with-docker.com)
 
 ### Usage
 
