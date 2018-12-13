@@ -1,23 +1,24 @@
 ## Ubuntu Dockerfile
 
 
-This repository contains **Dockerfile** of [Ubuntu](http://www.ubuntu.com/) for [Docker](https://www.docker.com/)'s [automated build](https://registry.hub.docker.com/u/dockerfile/ubuntu/) published to the public [Docker Hub Registry](https://registry.hub.docker.com/).
+This repository contains **Dockerfile** of [Ubuntu](http://www.ubuntu.com/) for [Docker](https://www.docker.com/)'s [automated build](https://hub.docker.com/_/ubuntu/) published to the public [Docker Hub Registry](https://hub.docker.com/r/luismcplopes/docker-ubuntu/).
 
 
 ### Base Docker Image
 
-* [ubuntu:14.04](https://registry.hub.docker.com/u/library/ubuntu/)
+* [ubuntu:latest](https://hub.docker.com/r/library/ubuntu/)
 
 
 ### Installation
 
 1. Install [Docker](https://www.docker.com/).
 
-2. Download [automated build](https://registry.hub.docker.com/u/dockerfile/ubuntu/) from public [Docker Hub Registry](https://registry.hub.docker.com/): `docker pull dockerfile/ubuntu`
+2. Download [automated build](https://hub.docker.com/r/luismcplopes/docker-ubuntu/) from public [Docker Hub Registry](https://registry.hub.docker.com/): `docker pull luismcplopes/docker-ubuntu`
 
-   (alternatively, you can build an image from Dockerfile: `docker build -t="dockerfile/ubuntu" github.com/dockerfile/ubuntu`)
+   (alternatively, you can build an image from Dockerfile: `docker build -t="Luismcplopes/docker-ubuntu" github.com/Luismcplopes/docker-ubuntu`)
 
+[![Try in PWD](https://cdn.rawgit.com/play-with-docker/stacks/cff22438/assets/images/button.png)](http://play-with-docker.com?stack=https://raw.githubusercontent.com/Luismcplopes/docker-ubuntu/master/Dockerfile&stack_name=func)
 
 ### Usage
 
-    docker run -it --rm dockerfile/ubuntu
+    docker run -it --rm Luismcplopes/docker-ubuntu
