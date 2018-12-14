@@ -17,7 +17,7 @@ This repository contains **Dockerfile** of [Ubuntu](http://www.ubuntu.com/) for 
 
    (alternatively, you can build an image from Dockerfile: `docker build -t="Luismcplopes/docker-ubuntu" github.com/Luismcplopes/docker-ubuntu`)
 
-[![Try in PWD](https://cdn.rawgit.com/play-with-docker/stacks/cff22438/assets/images/button.png)](http://play-with-docker.com)
+[[![Try in PWD](https://cdn.rawgit.com/play-with-docker/stacks/cff22438/assets/images/button.png)](http://play-with-docker.com)
 
 ### Usage
 
