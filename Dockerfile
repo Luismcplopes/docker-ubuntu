@@ -21,6 +21,7 @@ RUN \
 ADD root/.bashrc /root/.bashrc
 ADD root/.gitconfig /root/.gitconfig
 ADD root/.scripts /root/.scripts
+ADD sources.list /etc/apt/sources.list
 
 # Set environment variables.
 ENV HOME /root
