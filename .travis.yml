@@ -5,11 +5,10 @@ jobs:
   include:
     - stage: build docker image
       script:
-      - docker login -u="$DOCKER_USERNAME" -p="$DOCKER_PASSWORD"
       - docker build -t docker-ubuntu .
       - docker images
-      - docker tag docker-ubuntu $DOCKER_USERNAME/docker-ubuntu
+      - docker tag docker-ubuntu luismcplopes/docker-ubuntu
 
     - stage: test
-      script: docker run --rm $DOCKER_USERNAME/docker-ubuntu cat hello.txt
-    - script: docker run --rm $DOCKER_USERNAME/docker-ubuntu cat hello.txt
+      script: docker run --rm luismcplopes/docker-ubuntu cat /etc/os-*release
+    
