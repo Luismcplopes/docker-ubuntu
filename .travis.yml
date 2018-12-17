@@ -11,4 +11,4 @@ jobs:
 
     - stage: test
       script: docker run --rm luismcplopes/docker-ubuntu cat /etc/os-*release
-    
+      script: docker run --rm luismcplopes/docker-ubuntu cat /etc/apt/sources.list
