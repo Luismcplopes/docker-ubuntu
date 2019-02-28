@@ -1,7 +1,7 @@
-[https://img.shields.io/github/last-commit/Luismcplopes/docker-ubuntu.svg]
-https://img.shields.io/docker/build/luismcplopes/docker-ubuntu.svg
-https://img.shields.io/github/license/Luismcplopes/docker-ubuntu.svg
-[![Build Status](https://travis-ci.com/Luismcplopes/ubuntu-docker-sshd.svg?branch=master)](https://travis-ci.com/Luismcplopes/ubuntu-docker-sshd)
+[![last-commit](https://img.shields.io/github/last-commit/Luismcplopes/docker-ubuntu.svg)](https://img.shields.io/github/last-commit/Luismcplopes/docker-ubuntu.svg)
+[![docker build](https://img.shields.io/docker/build/luismcplopes/docker-ubuntu.svg)](https://img.shields.io/docker/build/luismcplopes/docker-ubuntu.svg)
+[![license](https://img.shields.io/github/license/Luismcplopes/docker-ubuntu.svg)](https://img.shields.io/github/license/Luismcplopes/docker-ubuntu.svg)
+[![travis-ci Build Status](https://travis-ci.com/Luismcplopes/ubuntu-docker-sshd.svg?branch=master)](https://travis-ci.com/Luismcplopes/ubuntu-docker-sshd)
 
 
 ## Ubuntu Dockerfile
