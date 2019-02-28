@@ -1,5 +1,6 @@
 [![last-commit](https://img.shields.io/github/last-commit/Luismcplopes/docker-ubuntu.svg?logo=github)](https://img.shields.io/github/last-commit/Luismcplopes/docker-ubuntu.svg?logo=github)
 [![docker build](https://img.shields.io/docker/build/luismcplopes/docker-ubuntu.svg?logo=docker)](https://img.shields.io/docker/build/luismcplopes/docker-ubuntu.svg?logo=docker)
+![Docker Pulls](https://img.shields.io/docker/pulls/luismcplopes/ubuntu-docker-sshd.svg?logo=docker)
 [![license](https://img.shields.io/github/license/Luismcplopes/docker-ubuntu.svg?logo=github)](https://img.shields.io/github/license/Luismcplopes/docker-ubuntu.svg?logo=github)
 ## Ubuntu Dockerfile
 
