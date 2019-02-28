@@ -1,11 +1,7 @@
 [![last-commit](https://img.shields.io/github/last-commit/Luismcplopes/docker-ubuntu.svg)](https://img.shields.io/github/last-commit/Luismcplopes/docker-ubuntu.svg)
 [![docker build](https://img.shields.io/docker/build/luismcplopes/docker-ubuntu.svg)](https://img.shields.io/docker/build/luismcplopes/docker-ubuntu.svg)
 [![license](https://img.shields.io/github/license/Luismcplopes/docker-ubuntu.svg)](https://img.shields.io/github/license/Luismcplopes/docker-ubuntu.svg)
-[![travis-ci Build Status](https://travis-ci.com/Luismcplopes/ubuntu-docker-sshd.svg?branch=master)](https://travis-ci.com/Luismcplopes/ubuntu-docker-sshd)
-
-
 ## Ubuntu Dockerfile
-
 
 This repository contains **Dockerfile** of [Ubuntu](http://www.ubuntu.com/) for [Docker](https://www.docker.com/)'s [automated build](https://hub.docker.com/_/ubuntu/) published to the public [Docker Hub Registry](https://hub.docker.com/r/luismcplopes/docker-ubuntu/).
 
