@@ -1,6 +1,6 @@
-[![last-commit](https://img.shields.io/github/last-commit/Luismcplopes/docker-ubuntu.svg)](https://img.shields.io/github/last-commit/Luismcplopes/docker-ubuntu.svg)
-[![docker build](https://img.shields.io/docker/build/luismcplopes/docker-ubuntu.svg)](https://img.shields.io/docker/build/luismcplopes/docker-ubuntu.svg)
-[![license](https://img.shields.io/github/license/Luismcplopes/docker-ubuntu.svg)](https://img.shields.io/github/license/Luismcplopes/docker-ubuntu.svg)
+[![last-commit](https://img.shields.io/github/last-commit/Luismcplopes/docker-ubuntu.svg?logo=github)](https://img.shields.io/github/last-commit/Luismcplopes/docker-ubuntu.svg?logo=github)
+[![docker build](https://img.shields.io/docker/build/luismcplopes/docker-ubuntu.svg?logo=docker)](https://img.shields.io/docker/build/luismcplopes/docker-ubuntu.svg?logo=docker)
+[![license](https://img.shields.io/github/license/Luismcplopes/docker-ubuntu.svg?logo=github)](https://img.shields.io/github/license/Luismcplopes/docker-ubuntu.svg?logo=github)
 ## Ubuntu Dockerfile
 
 This repository contains **Dockerfile** of [Ubuntu](http://www.ubuntu.com/) for [Docker](https://www.docker.com/)'s [automated build](https://hub.docker.com/_/ubuntu/) published to the public [Docker Hub Registry](https://hub.docker.com/r/luismcplopes/docker-ubuntu/).
