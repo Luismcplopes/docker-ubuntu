@@ -16,12 +16,12 @@ This repository contains **Dockerfile** of [Ubuntu](http://www.ubuntu.com/) for 
 
 1. Install [Docker](https://docs.docker.com/install/).
 
-2. Download [automated build](https://hub.docker.com/r/luismcplopes/docker-ubuntu/) from public [Docker Hub Registry](https://registry.hub.docker.com/): `docker pull luismcplopes/docker-ubuntu`
+2. Download [automated build](https://hub.docker.com/r/luismcplopes/docker-ubuntu/) from public [Docker Hub Registry](https://hub.docker.com/): `docker pull luismcplopes/docker-ubuntu`
 
-   (alternatively, you can build an image from Dockerfile: `docker build -t="Luismcplopes/docker-ubuntu" github.com/Luismcplopes/docker-ubuntu`)
+   (alternatively, you can build an image from Dockerfile: `docker build -t="luismcplopes/docker-ubuntu" github.com/Luismcplopes/docker-ubuntu`)
 
 [![Try in PWD](https://cdn.rawgit.com/play-with-docker/stacks/cff22438/assets/images/button.png)](http://play-with-docker.com)
 
 ### Usage
 
-    docker run -it --rm Luismcplopes/docker-ubuntu
+    docker run -it --rm luismcplopes/docker-ubuntu
